@@ -14,6 +14,7 @@ void main()
     e=--a;
     f=a;
     printf("a=%d,b=%d, c=%d, d=%d, e=%d, f=%d",a,b,c,d,e,f);
+    getch();
     //++a and --a makes that variable's value and value of a equal
 
     /*int i,j;

@@ -8,4 +8,5 @@ void main()
     c-=b; //c=c-d
     d*=b; //d=d*b
     printf("%d,%d,%d",a,c,d);
+    getch();
 }
